@@ -116,3 +116,6 @@
     <li>O fluxo de execução "normal" do programa para imeditamente apos a execução da cláusula <em>throw</em>. O bloco <em>try</em> envolvente mais próximo é verificado para encontrar um bloco <em>catch</em> que corresponda ao tipo de exceção.</li>
     <li>Caso encontre essa correspondência, o controlado é transferido para esse bloco. Caso contrário, o próximo bloco <em>try</em> envolvente é verificado e assim por diante.</li>
     <li>Outro caso, é se nenhuma captura for encontrada, o manipulador da exceção padrão interromperá o programa.</li>
+    
+    
+    Créditos README: https://github.com/cami-la/exceptions-java
